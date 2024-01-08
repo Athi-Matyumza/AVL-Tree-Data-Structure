@@ -1,9 +1,6 @@
 # AVL-Tree-Data-Structure
 # AccessAVLApp: Campus Access Management with AVL Tree
 
-![Java](https://img.shields.io/badge/Java-Programming-orange)
-![AVL Tree](https://img.shields.io/badge/Data%20Structure-AVL%20Tree-brightgreen)
-
 ## Overview
 
 AccessAVLApp is a Java application designed to manage campus access during lockdown by storing and retrieving student data using an AVL Tree data structure. The AVL Tree ensures efficient searching and retrieval of student information.
