@@ -49,4 +49,5 @@ Used Unix output redirection to save results to different files for analysis.
 Feel free to contribute to the project by opening issues or submitting pull requests. Your insights and suggestions are highly valued.
 
 ## Acknowledgments
+- AVL Tree implementation based on Prof. Hussein Suleman at the University of Cape Town.
 - Dataset: oklist.txt
