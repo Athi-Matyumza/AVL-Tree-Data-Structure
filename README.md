@@ -1,4 +1,3 @@
-# AVL-Tree-Data-Structure
 # AccessAVLApp: Campus Access Management with AVL Tree
 
 ## Overview
